@@ -190,14 +190,7 @@ The SQL uses `?` parameters rather than interpolating CSV values. `email` has a 
 
 ### Self-assessment
 
-| Area | Rating | Rationale |
-| --- | --- | --- |
-| LLM | **B** | I can work with LLM application concepts and APIs, but would seek review for production model selection, evaluation and security-sensitive deployment decisions. |
-| Deep Learning | **C** | I understand the high-level concepts, but I would not yet claim independent implementation of deep-learning research or training pipelines. |
-| AI | **B** | I can apply AI concepts to application problems and learn unfamiliar areas systematically; I would seek guidance for high-risk or research-heavy decisions. |
-| Machine Learning | **B** | I understand core supervised-learning workflow concepts and can implement guided solutions, while continuing to deepen independent modelling and evaluation practice. |
-
-I prefer a conservative rating over overstating experience. For an AI-security role, I would pair implementation work with documented threat models, evaluations and review checkpoints.
+I rated myself A in LLMs and AI and B in deep learning and ML. I am comfortable independently working with LLM APIs, building AI powered application workflows and applying AI concepts to practical problems. In deep learning and machine learning, I understand the fundamentals and can implement solutions with guidance, while continuing to improve my practical experience.
 
 ### Key architectural components of an LLM chatbot
 
